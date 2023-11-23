@@ -10,3 +10,11 @@ const y = 1;
 const z = 2;
 const ketQua = tinhGiaTri(x, y, z);
 console.log("Giá trị của biểu thức là: " + ketQua);
+
+//bai3
+
+let arr = [5, 1, 4, 2, 7];
+
+for (let i = 0; i < arr.length; i++) {
+    console.log(arr[i]);
+}
